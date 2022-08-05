@@ -1,3 +1,5 @@
+createStore is depreciated and VS wants us to use Redux Toolkit, please update the class ?
+
 ---
 mainImage: ../../../images/part-6.svg
 part: 6
